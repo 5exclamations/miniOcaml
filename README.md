@@ -1,6 +1,6 @@
 # MiniOCaml (lexer + parser + type checker + evaluator)
 
-This project is a small “MiniOCaml”-style interpreter for a tiny functional language.
+This project is a small “MiniOCaml”-style interpreter for a tiny functional language. It was written for Programming 1 course in Saarland University in 2023.
 
 It includes:
 - A **lexer** that converts an input string into tokens (keywords like `if/then/else`, `let/in/rec`, symbols like `+ - * <= ->`, parentheses, commas, etc.).
